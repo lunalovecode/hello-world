@@ -1,4 +1,4 @@
 # hello-world
-Testing the repositories
+About me
 
-Hi. I like coding, reading, and hanging out with my younger sister.
+Hello World! I like coding, reading, playing Plants vs. Zombies, and hanging out with my younger sister.
